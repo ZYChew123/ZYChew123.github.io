@@ -205,18 +205,20 @@ The performance of both model was evaluated by it's accuracy statistics and the 
 
 Overall, the Recurrent Neural Network (RNN) model demonstrates better performance in terms of overall accuracy, precision, recall, and F1 scores across most classes compared to the Logistic Regression (LR) model. <br>
 
-## Recommendation and Analysis
+## Recommendation and Analysis<br>
+
+RNN model was run on another a test dataset to gauge the public sentiment regarding lockdown period in twitter.
+
+
+
 Recommended to use RNN to accurately gauge public sentiment on Covid-19
 
 To gauge the public sentiment on Pandemic, recommended to train the data with sentiments from different period of Covid-19 (Lockdown, vaccine launch and New normal)
 
-
 Use both topic modelling and sentiment analysis to understand public’s opinion on a topic and gauge their response on the particular topic. 
 
 ## AI Ethics
-Discuss the potential data science ethics issues (privacy, fairness, accuracy, accountability, transparency) in your project. 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+This dataset ensured the privacy of the users who tweeted the sentiment as the username column was masked with numerical values. As Covid-19 is a global pandemic, the data collected only represent a fraction of the entire world population, which may reflect biases in Twitter user base. this will cause certain demographic to be underrepresented or misrepresented. Sentiment analysis are also prone to inaccuracies, especially when intepreting slangs,sarcasm, or context-dependent sentiments. more dataset for rigorous training and validation is required to ensure the model can be improved continuously. 
 
 ## Source Codes and Datasets
-Upload your model files and dataset into a GitHub repo and add the link here. 
+refer to repository.
