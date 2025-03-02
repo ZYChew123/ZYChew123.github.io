@@ -209,9 +209,13 @@ Overall, the Recurrent Neural Network (RNN) model demonstrates better performanc
 
 RNN model was run on another a test dataset to gauge the public sentiment regarding lockdown period in twitter.
 
+<img width="532" alt="image" src="https://github.com/user-attachments/assets/7475a2b5-e065-477d-b5a1-c50f06bcf96d" />
 
+From the test dataset we can gauge that people have negative sentiments towards covid-19 lockdown, although most reacted positively as people might think that is a temporary measure.
 
-Recommended to use RNN to accurately gauge public sentiment on Covid-19
+Hence to prepare the public for the next pandemic, early detection and surveillence required when a new diseases emerged, which involves continuous effort of monitoring and reporting of infectous diseases and make swift and decisive intervention when the diseases appeared in the country. Public awareness is also crucial for educating the public for preventive measures as well as detecting misinformation.  
+
+## Future Works
 
 To gauge the public sentiment on Pandemic, recommended to train the data with sentiments from different period of Covid-19 (Lockdown, vaccine launch and New normal)
 
