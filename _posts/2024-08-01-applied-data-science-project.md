@@ -225,4 +225,4 @@ Use both topic modelling and sentiment analysis to understand public’s opinion
 This dataset ensured the privacy of the users who tweeted the sentiment as the username column was masked with numerical values. As Covid-19 is a global pandemic, the data collected only represent a fraction of the entire world population, which may reflect biases in Twitter user base. this will cause certain demographic to be underrepresented or misrepresented. Sentiment analysis are also prone to inaccuracies, especially when intepreting slangs,sarcasm, or context-dependent sentiments. more dataset for rigorous training and validation is required to ensure the model can be improved continuously. 
 
 ## Source Codes and Datasets
-refer to repository.
+https://github.com/ZYChew123/ITD214_project
